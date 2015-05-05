@@ -1,0 +1,6 @@
+C:\Users\jikan\Documents\GitHub\InterviewProblems\ProblemSet\ProblemSet\bin\Debug\ProblemSet.exe.config
+C:\Users\jikan\Documents\GitHub\InterviewProblems\ProblemSet\ProblemSet\bin\Debug\ProblemSet.exe
+C:\Users\jikan\Documents\GitHub\InterviewProblems\ProblemSet\ProblemSet\bin\Debug\ProblemSet.pdb
+C:\Users\jikan\Documents\GitHub\InterviewProblems\ProblemSet\ProblemSet\obj\Debug\ProblemSet.csprojResolveAssemblyReference.cache
+C:\Users\jikan\Documents\GitHub\InterviewProblems\ProblemSet\ProblemSet\obj\Debug\ProblemSet.exe
+C:\Users\jikan\Documents\GitHub\InterviewProblems\ProblemSet\ProblemSet\obj\Debug\ProblemSet.pdb
